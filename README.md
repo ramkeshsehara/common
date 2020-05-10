@@ -1,1 +1,1 @@
-# common
+setup project from scratch 
